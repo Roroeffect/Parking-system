@@ -1,3 +1,3 @@
-# Projects
+# Parking system
 
-A collection of side projects I actively have done or doing. Always making it a point to learn and not stop.
+This is a parking system I attempted to implement by using Java and principles of OOP.
